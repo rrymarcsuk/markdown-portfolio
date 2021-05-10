@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+# New Content for Confusing and Hard to Follow Git Traning
